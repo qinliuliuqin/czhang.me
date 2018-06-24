@@ -9,6 +9,8 @@
 .navbar .nav {
   float: right; }
 
+.navbar-inverse .brand {color:#ffffff;}
+
 /* posts index */
 .post > h3.title {
   position: relative;
