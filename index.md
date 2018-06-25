@@ -23,6 +23,8 @@ I received my Bachelor degree in applied mathematics and Master degree in comput
 
 ### Research interest
 
+My Research area is machine learning and statistics, with interests ranging from graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, and various applications using probablistic modeling.
+
 With [GitHub Pages](https://pages.github.com), you just write things in
 [Markdown](https://daringfireball.net/projects/markdown/),
 [GitHub](https://github.com) hosts the site for you, and you just push
