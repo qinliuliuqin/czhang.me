@@ -43,7 +43,7 @@ Cheng Zhang, Frederick A. Matsen IV
 _Arxiv:1805.07834_
 
 - [Variational Hamiltonian Monte Carlo via Score Matching](https://projecteuclid.org/download/pdfview_1/euclid.ba/1500948232)  
-Cheng Zhang, Babak Shahbaba, Hongkai Zhao
-_Bayesian Analysis 13(2), 2018, pp. 486--506_
+Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
+_Bayesian Analysis 13(2), 2018, pp. 486-506_
 
 
