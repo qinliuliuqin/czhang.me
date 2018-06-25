@@ -8,7 +8,7 @@ title: Cheng Zhang
 [Computational Biology Program](https://www.fredhutch.org/en/labs/phs/projects/herbold-computational-biology-program.html)   
 [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html)  
 **Email**: czhang23@fredhutch.org  
-**Github** : [@zcrabbit](https://github.com/zcrabbit)  
+**Github**: [@zcrabbit](https://github.com/zcrabbit)  
 
 ### About me
 
