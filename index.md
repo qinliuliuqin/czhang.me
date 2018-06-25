@@ -12,11 +12,16 @@ title: Cheng Zhang
 
 ## About me
 
+I am a Postdoc in the computational Biology program at Fred Hutchinson cancer research center, working with [Erick Matsen](http://matsen.fredhutch.org). Before comming to Fred Hutch, I did my PhD at the Mathematics Department at [University of California, Irvine](https://uci.edu). My supervisor was [Prof. Hongkai Zhao](https://www.math.uci.edu/~zhao/homepage/home/home.html). My co-supervisor was [Prof. Babak Shahbaba](https://www.ics.uci.edu/~babaks/) from the Statistics Department at UC Irvine. 
+I received my Bachelor degree in applied Mathematics and Master degree in computational Mathematics from Peking University.
+
 <!-- For me, the painful aspects of making a website are
 
 - Working with html and css
 - Finding a hosting site
 - Transferring stuff to the hosting site -->
+
+## Research interest
 
 With [GitHub Pages](https://pages.github.com), you just write things in
 [Markdown](https://daringfireball.net/projects/markdown/),
