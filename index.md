@@ -26,7 +26,7 @@ I received my Bachelor degree in applied mathematics and Master degree in comput
 My Research area is machine learning and statistics, with interests ranging from graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, and various applications using probablistic modeling. Examples of subjects of interest including:
 
 - Scalable MCMC methods for large-scale Bayesian inference. 
-- Graphical Modeling of discrete and structural objectives.
+- Graphical modeling of discrete and structured objects.
 - Efficient Bayesian Phylogenetic inference algorithms.
 
 
