@@ -4,7 +4,7 @@ title: Publications
 ---
 
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
-Cheng Zhang, Vu Dinh, Frederick A. Matsen IV  
+Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
 _ArXiv:1805.11073_
 
 - [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
