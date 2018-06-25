@@ -23,23 +23,12 @@ I received my Bachelor degree in applied mathematics and Master degree in comput
 
 ### Research interest
 
-My Research area is machine learning and statistics, with interests ranging from graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, and various applications using probablistic modeling.
+My Research area is machine learning and statistics, with interests ranging from graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, and various applications using probablistic modeling. Examples of subjects of interest including:
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+- Scalable MCMC methods for large-scale Bayesian inference. 
+- Graphical Modeling of discrete and structural objectives.
+- Efficient Bayesian Phylogenetic inference algorithms.
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
-
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
 
 The [GitHub](https://pages.github.com) and
 [Jekyll](https://jekyllrb.com) documentation is great, but I thought it
