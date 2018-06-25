@@ -26,4 +26,4 @@ _Computational Statistics 32(1), 2017, pp. 253-279_
 - [Probabilistic Path Hamiltonian Monte Carlo](http://proceedings.mlr.press/v70/dinh17a/dinh17a.pdf)  
 Vu Dinh\*, Arman Bilge\*, Cheng Zhang\*, Frederick A. Matsen IV  
 _ICML 2017_  
-[[code]](https://github.com/zcrabbit/PhyloInfer) [[poster]]({{site.baseurl}/static/posters/pphmc.pdf})
+[[code]](https://github.com/zcrabbit/PhyloInfer) [[poster]]({{site.baseurl}}/static/posters/pphmc.pdf)
