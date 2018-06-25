@@ -2,7 +2,7 @@
 layout: index
 title: Cheng Zhang
 ---
-# Cheng Zhang  
+<h1> Cheng Zhang </h1>  
 **Postdoctoral Researcher**  
 [Computational Biology Program](https://www.fredhutch.org/en/labs/phs/projects/herbold-computational-biology-program.html)   
 [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html)  
