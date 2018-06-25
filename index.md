@@ -29,4 +29,4 @@ Examples of subjects of interest including:
 
 - Scalable MCMC methods for large-scale Bayesian inference. 
 - Graphical modeling of discrete and structured objects.
-- Efficient Bayesian Phylogenetic inference algorithms.
+- Efficient Bayesian phylogenetic inference algorithms.
