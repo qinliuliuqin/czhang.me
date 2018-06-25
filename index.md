@@ -4,19 +4,19 @@ title: Cheng Zhang
 ---
 <h2> Cheng Zhang </h2> 
 <br>
-<br> 
 **Postdoctoral Researcher**  
 [Computational Biology Program](https://www.fredhutch.org/en/labs/phs/projects/herbold-computational-biology-program.html)   
 [Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en.html)  
 **Email**: czhang23@fredhutch.org  
 **Github** : [@zcrabbit](https://github.com/zcrabbit)  
 
+## About me
 
-For me, the painful aspects of making a website are
+<!-- For me, the painful aspects of making a website are
 
 - Working with html and css
 - Finding a hosting site
-- Transferring stuff to the hosting site
+- Transferring stuff to the hosting site -->
 
 With [GitHub Pages](https://pages.github.com), you just write things in
 [Markdown](https://daringfireball.net/projects/markdown/),
