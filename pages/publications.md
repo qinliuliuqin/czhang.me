@@ -17,7 +17,8 @@ _Bayesian Analysis 13(2), 2018, pp. 486-506_
 
 - [Hamiltonian Monte Carlo Acceleration Using Surrogate Functions with Random Bases](https://arxiv.org/pdf/1506.05555.pdf)  
 Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
-_Statistics and Computing 27(6), 2017, pp. 1473-1490_
+_Statistics and Computing 27(6), 2017, pp. 1473-1490_  
+[[code]](https://github.com/zcrabbit/RNSHMC)
 
 - [Precomputing Strategy for Hamiltonian Monte Carlo Methods Based on Regularity in Parameter Space](https://arxiv.org/pdf/1504.01418.pdf)  
 Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
