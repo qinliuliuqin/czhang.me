@@ -23,25 +23,20 @@ I received my Bachelor degree in applied mathematics and Master degree in comput
 
 ### Research interest
 
-My Research area is machine learning and statistics, with interests ranging from graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, and various applications using probablistic modeling. Examples of subjects of interest including:
+My Research area is machine learning and statistics, with interests ranging from graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, and various applications using probablistic modeling. 
+
+Examples of subjects of interest including:
 
 - Scalable MCMC methods for large-scale Bayesian inference. 
 - Graphical modeling of discrete and structured objects.
 - Efficient Bayesian Phylogenetic inference algorithms.
 
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
+### Publications
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
+- [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
+Cheng Zhang, Frederick A. Matsen IV  
+_Arxiv:1805.07834_
 
 <!-- - [Overview](pages/overview.html)
 - [Making an independent website](pages/independent_site.html)
@@ -58,13 +53,3 @@ better) fork [the GitHub repository for this website](https://github.com/kbroman
 make modifications, and submit a pull request.
 
 ---
-
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
-
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
