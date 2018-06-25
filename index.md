@@ -34,22 +34,16 @@ Examples of subjects of interest including:
 
 ### Publications
 
+- [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
+Cheng Zhang, Vu Dinh, Frederick A. Matsen IV  
+_ArXiv:1805.11073_
+
 - [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
 Cheng Zhang, Frederick A. Matsen IV  
 _Arxiv:1805.07834_
 
-<!-- - [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html) -->
+- [Variational Hamiltonian Monte Carlo via Score Matching](https://projecteuclid.org/download/pdfview_1/euclid.ba/1500948232)  
+Cheng Zhang, Babak Shahbaba, Hongkai Zhao
+_Bayesian Analysis 13(2), 2018, pp. 486--506_
 
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
 
----
