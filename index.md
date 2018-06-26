@@ -12,7 +12,7 @@ title: Cheng Zhang
 
 ### About me
 
-I am a Postdoc in the computational Biology program at Fred Hutchinson cancer research center, working with [Erick Matsen](http://matsen.fredhutch.org). Before comming to Fred Hutch, I did my PhD in the [Mathematics Department](https://www.math.uci.edu) at [University of California, Irvine](https://uci.edu). My supervisor was [Prof. Hongkai Zhao](https://www.math.uci.edu/~zhao/homepage/home/home.html). My co-supervisor was [Prof. Babak Shahbaba](https://www.ics.uci.edu/~babaks/) from the Statistics Department at UC Irvine. 
+I am a Postdoc in the computational Biology program at Fred Hutchinson cancer research center, working with [Erick Matsen](http://matsen.fredhutch.org). Before comming to Fred Hutch, I did my PhD in the [Mathematics Department](https://www.math.uci.edu) at [University of California, Irvine](https://uci.edu). My supervisor was [Prof. Hongkai Zhao](https://www.math.uci.edu/~zhao/homepage/home/home.html). My co-supervisor was [Prof. Babak Shahbaba](https://www.ics.uci.edu/~babaks/). 
 I received my Bachelor degree in applied mathematics and Master degree in computational mathematics from Peking University.
 
 <!-- For me, the painful aspects of making a website are
