@@ -5,6 +5,9 @@
 
 .container-narrow > hr {
   margin: 30px 0; }
+  
+.navbar {
+  border-radius:0px; }
 
 .navbar .nav {
   float: right; }
