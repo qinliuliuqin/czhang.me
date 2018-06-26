@@ -11,12 +11,6 @@
 
 .navbar-inverse .brand {color:#ffffff;}
 
-.navbar-inverse {
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    border-radius: 0;
-}
-
 /* posts index */
 .post > h3.title {
   position: relative;
